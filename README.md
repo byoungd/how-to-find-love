@@ -82,8 +82,9 @@ A Beneficial Guide to find LOVE ❤️ 离谱的恋爱指南
 
 ## 章节
 
-[I MISS YOU](/story/01_I_miss_you.EN.md)
-[我没有遇见你](/story/01_I_miss_you.CN.md)
+- [I MISS YOU](/story/01_I_miss_you.EN.md) /
+  [我没有遇见你](/story/01_I_miss_you.CN.md)
+- [FIRST KISS](/story/02_first_kiss.CN.md) / [离谱的初恋](/story/02_first_kiss.CN.md)
 
 ## 声明
 
