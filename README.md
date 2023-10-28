@@ -80,6 +80,11 @@ A Beneficial Guide to find LOVE ❤️ 离谱的恋爱指南
 
 **我始终都没有勇气对另一个人敞开心扉**。
 
+## 章节
+
+[I MISS YOU](/story/01_I_miss_you.EN.md)
+[我没有遇见你](/story/01_I_miss_you.CN.md)
+
 ## 声明
 
 非常感谢你们的陪伴，让离谱可以享受正在做的事情。
