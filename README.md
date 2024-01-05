@@ -74,4 +74,4 @@ A Beneficial Guide to find LOVE ❤️ 离谱的恋爱指南
 
 ## 章节
 
-- [离谱的初恋 FIRST KISS](/story/02_first_kiss.CN.md)
+- [离谱的初恋 FIRST KISS](/story/01_first_kiss.CN.md)
