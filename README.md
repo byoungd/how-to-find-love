@@ -75,3 +75,7 @@ A Beneficial Guide to find LOVE ❤️ 离谱的恋爱指南
 ## 章节
 
 - [离谱的初恋 FIRST KISS](/story/01_first_kiss.CN.md)
+
+- [白纸作画如何下笔 Paint on Blank](/story/02_paint_on_blank.md)
+
+- [影子恋人 Shadow Lover](/story/03_shadow_lover.md)
