@@ -2,6 +2,10 @@
 
 A Beneficial Guide to find LOVE ❤️ 离谱的恋爱指南
 
+![](/assets/intro/cover.jpg)
+
+> 以上图片中的美女大部分是朋友客串，节目效果，纯属虚构
+
 ## 章节
 
 - [离谱的初恋 FIRST KISS](/story/01_first_kiss.CN.md)
@@ -9,6 +13,8 @@ A Beneficial Guide to find LOVE ❤️ 离谱的恋爱指南
 - [白纸作画如何下笔 Paint on Blank](/story/02_paint_on_blank.md)
 
 - [影子恋人 Shadow Lover](/story/03_shadow_lover.md)
+
+- [姐姐教你 Lovely Sister](/story/04_lovely_sister.md)
 
 ## 序言
 
@@ -30,12 +36,9 @@ A Beneficial Guide to find LOVE ❤️ 离谱的恋爱指南
 
 ## 离谱是谁
 
-很多朋友都是通过[离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)知道 `离谱` 这个人的，这个指南里有一个彩蛋 [`离谱的爱情往事`](https://github.com/byoungd/English-level-up-tips/tree/master/part-3)。起初,离谱只是想写篇短文,缅怀一下逝去的初恋。但当他追忆起曾在情路上占有特殊地位的几个女子,猛然一怔,竟思绪大开,写就了四篇佳作。可惜好景不长,往后他再无献书,成为半途夭折的文坛太监。
+很多朋友都是通过[离谱的英语学习指南](https://github.com/byoungd/English-level-up-tips)知道 `离谱` 这个人的，这个指南里有一个彩蛋 [`离谱的爱情往事`](https://github.com/byoungd/English-level-up-tips/tree/master/part-3)。起初,离谱只是想写篇短文,缅怀一下逝去的初恋。但当他追忆起曾在情路上占有特殊地位的几个女子,猛然一怔,竟思绪大开,写就了数篇小作文。可惜好景不长,往后他再无献书,成为半途夭折的文坛太监。
 
 2023 年 10 月中旬,离谱的小助理在某社群平台发帖,组织程序员线下聚会。无心插柳的一句体己话,称离谱交过百余任女友,甚至包括某韩国女星,一石激起千层浪,无数逆鳞者群起而攻之。
-
-![tesi](/assets/testi.jpg)
-![diss](/assets/diss.png)
 
 离谱本人对此极为不解。何以会有人无端对我人身攻击。我从没吹嘘过这些风流韵事,万一有所失言,还望海涵。人各有命,对人生和爱情的感悟也殊途同归。
 
