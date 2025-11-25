@@ -1,6 +1,6 @@
 # how-to-find-love
 
-A Beneficial Guide to find LOVE ❤️ 离谱的恋爱指南
+A Beneficial Guide to find LOVE ❤️ 如何找到自己的爱情
 
 ![](/assets/cover.png)
 
