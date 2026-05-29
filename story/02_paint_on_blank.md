@@ -61,4 +61,4 @@
 
 ---
 
-下一篇：[影子恋人](03_shadow_lover.md)
+上一篇：[FIRST KISS](01_first_kiss.CN.md)　　下一篇：[影子恋人](03_shadow_lover.md)
